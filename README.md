@@ -7,8 +7,9 @@ grow, and take on new challenges in the field of technology and analytics.
 
 ## My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravshuklaaaaa)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravshuklaaaaa)
+| GitHub Stats | GitHub Streak |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravshuklaaaaa) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravshuklaaaaa) |
 
 
 
