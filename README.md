@@ -5,9 +5,11 @@ Hi, I’m Gaurav Shukla, a student at IIIT Bhopal currently learning Data Scienc
 uncovering insights, and applying machine learning techniques to solve real-world problems. Always eager to learn, 
 grow, and take on new challenges in the field of technology and analytics.
 
-##My Github Stats 
-![Github Stats]https://github-readme-stats.vercel.app/api?username=gauravshuklaaaaa
-![Github Stats]https://github-readme-streak-stats.herokuapp.com/?user=gauravshuklaaaaa
+## My GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravshuklaaaaa)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravshuklaaaaa)
+
 
 
 <!--
